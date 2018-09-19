@@ -1,2 +1,2 @@
 # Lab_ML_ITBA
-Todas las clases del Laboratorio de Machine Learning del ITBA.
+Ejercicios que se fueron realizando con los distintos temas de Machine Learning vistos en el curso, que van desde una regresión logistica hasta la aplicacion de Redes Neuronales.
